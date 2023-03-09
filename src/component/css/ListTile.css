@@ -1,0 +1,31 @@
+.Main{
+    display: flex;
+    margin: 40px;
+    background-color: aqua;
+    justify-content: center;
+    vertical-align: center;
+    
+}
+.section1{
+  margin-top: 5%;
+margin-left: 5%;
+}
+
+.img{
+    width: 50%;
+    height: auto;
+    border-radius: 50%;
+   
+
+}
+.bottomText{
+    display: flex;
+    margin-top: -20px;
+}
+.inning{
+    margin-right: 10px;
+}
+.section2{
+   margin-right: 10px;
+    margin-left: -10%;
+}
